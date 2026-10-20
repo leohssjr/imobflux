@@ -1,0 +1,15 @@
+/* ImobFlux — design tokens. Fonte única de cor/tipografia para o sistema e o pitch. */
+:root {
+  --if-teal: #0E7C7B;      /* principal: símbolo, "flux", CTAs */
+  --if-teal-700: #0A5F5E;  /* hover/pressed */
+  --if-navy: #0F1B2D;      /* "imob", textos, fundos escuros */
+  --if-mint: #7FD6D3;      /* destaque sobre fundo escuro */
+  --if-white: #FFFFFF;
+  --if-bg: #F6F8F8;        /* fundo claro de app */
+  --if-ink-2: #4A5A6B;     /* texto secundário (contraste 6.9:1 sobre branco) */
+  --if-line: #DCE5E5;
+  --if-ok: #1A8F5B; --if-warn: #B7791F; --if-danger: #C0392B;
+  --if-font-display: "Poppins", system-ui, sans-serif;  /* títulos (OFL) */
+  --if-font-body: "Inter", system-ui, sans-serif;       /* corpo (OFL) */
+  --if-radius: 12px;
+}

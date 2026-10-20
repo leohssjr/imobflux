@@ -1,0 +1,1 @@
+Implemente o projeto ImobFlux completo neste repositório: o sistema em `app/` e o pitch em `pitch/`. Siga o `AGENTS.md` (ordem de leitura, regras e checklist de pronto). Trabalhe até a checklist inteira estar cumprida, rodando e testando o que construir, e termine com o relatório final.

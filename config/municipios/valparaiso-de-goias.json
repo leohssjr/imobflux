@@ -1,0 +1,13 @@
+{
+  "id": "valparaiso-de-goias",
+  "nome": "Valparaíso de Goiás",
+  "uf": "GO",
+  "itbi": {
+    "aliquota": 0.02,
+    "base_calculo": "maior_entre_venal_e_transacao",
+    "verificado": false,
+    "fonte": "calculadora não oficial; confirmar com a Secretaria de Finanças",
+    "entrega_guia": ["email_online", "retirada_via_fisica_prefeitura"],
+    "documentos_usuais": ["escritura_ou_contrato_bancario", "matricula_atualizada", "iptu", "documentos_das_partes"]
+  }
+}

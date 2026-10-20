@@ -1,0 +1,1 @@
+Revise o que já foi implementado contra a checklist de `AGENTS.md`, `specs/sistema.md` e `specs/pitch.md`. Liste divergências, corrija as pequenas e abra uma lista das grandes. Confira em especial: IA só nas duas funções, ITBI lido de config, ordem do fluxo, isolamento por organização e ausência de dados inventados no pitch.

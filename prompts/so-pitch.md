@@ -1,0 +1,1 @@
+Crie apenas o pitch do ImobFlux em `pitch/`, seguindo `AGENTS.md` e `specs/pitch.md`: HTML autocontido de 12 slides bem estilizado, com a logo e a identidade de `brand/`, e o PDF exportado. Revise cada slide por screenshot antes de entregar.
